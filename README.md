@@ -1,2 +1,0 @@
-# beecrowd
-Beecrowd problems resolved
