@@ -9,4 +9,5 @@ for i in range(c):
     else:
         quantidade = quantidade
 
+
 print(quantidade)
