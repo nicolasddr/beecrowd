@@ -1,2 +1,2 @@
 # beecrowd
-Beecrowd problems resolved
+Python Beecrowd problems resolved
